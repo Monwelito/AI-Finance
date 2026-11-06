@@ -1,0 +1,6 @@
+{
+  "name": "AuditReady Finance & Compliance Books",
+  "description": "Standard regulatory financial statements (Balance Sheet, P&L, Cash Flow, Tax Schedules) with plain-language explanations, automated audit compliance checks, and standalone GitHub export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
